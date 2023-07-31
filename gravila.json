@@ -1,1 +1,49 @@
-
+{
+  "how_to_open": "Egestas tellus rutrum tellus pellentesque eu. Turpis egestas pretium aenean pharetra. Est ullamcorper eget nulla facilisi. Facilisis volutpat est velit egestas dui id ornare arcu odio. Amet mattis vulputate enim nulla aliquet. Massa tempor nec feugiat nisl pretium. Nunc aliquet bibendum enim facilisis gravida neque convallis. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Amet purus gravida quis blandit. Tristique senectus et netus et malesuada fames. Cras tincidunt lobortis feugiat vivamus at. Orci porta non pulvinar neque laoreet suspendisse interdum consectetur.",
+  "items": [
+    {
+      "preview": "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/list_item_ph.jpg",
+      "name": "Curabitur vitae",
+      "description": "Curabitur vitae nunc sed velit dignissim sodales ut eu. Sed lectus vestibulum mattis ullamcorper velit sed. Magna sit amet purus gravida quis blandit turpis cursus in. Facilisis gravida neque convallis a. Vitae tempus quam pellentesque nec nam aliquam. Nisi scelerisque eu ultrices vitae. Enim nec dui nunc mattis enim ut tellus. Pharetra sit amet aliquam id. Fusce ut placerat orci nulla. At tellus at urna condimentum mattis pellentesque id nibh tortor.",
+      "img_carousel": [
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg"
+      ],
+      "download_url": "https://github.com/jungle-cc/ph/archive/refs/heads/main.zip"
+    },
+    {
+      "preview": "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/list_item_ph.jpg",
+      "name": "Curabitur vitae 1",
+      "description": "Curabitur vitae nunc sed velit dignissim sodales ut eu. Sed lectus vestibulum mattis ullamcorper velit sed. Magna sit amet purus gravida quis blandit turpis cursus in. Facilisis gravida neque convallis a. Vitae tempus quam pellentesque nec nam aliquam. Nisi scelerisque eu ultrices vitae. Enim nec dui nunc mattis enim ut tellus. Pharetra sit amet aliquam id. Fusce ut placerat orci nulla. At tellus at urna condimentum mattis pellentesque id nibh tortor.",
+      "img_carousel": [
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg"
+      ],
+      "download_url": "https://github.com/jungle-cc/ph/archive/refs/heads/main.zip"
+    },
+    {
+      "preview": "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/list_item_ph.jpg",
+      "name": "Curabitur vitae 2",
+      "description": "Curabitur vitae nunc sed velit dignissim sodales ut eu. Sed lectus vestibulum mattis ullamcorper velit sed. Magna sit amet purus gravida quis blandit turpis cursus in. Facilisis gravida neque convallis a. Vitae tempus quam pellentesque nec nam aliquam. Nisi scelerisque eu ultrices vitae. Enim nec dui nunc mattis enim ut tellus. Pharetra sit amet aliquam id. Fusce ut placerat orci nulla. At tellus at urna condimentum mattis pellentesque id nibh tortor.",
+      "img_carousel": [
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg"
+      ],
+      "download_url": "https://github.com/jungle-cc/ph/archive/refs/heads/main.zip"
+    },
+    {
+      "preview": "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/list_item_ph.jpg",
+      "name": "Curabitur vitae 3",
+      "description": "Curabitur vitae nunc sed velit dignissim sodales ut eu. Sed lectus vestibulum mattis ullamcorper velit sed. Magna sit amet purus gravida quis blandit turpis cursus in. Facilisis gravida neque convallis a. Vitae tempus quam pellentesque nec nam aliquam. Nisi scelerisque eu ultrices vitae. Enim nec dui nunc mattis enim ut tellus. Pharetra sit amet aliquam id. Fusce ut placerat orci nulla. At tellus at urna condimentum mattis pellentesque id nibh tortor.",
+      "img_carousel": [
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg",
+        "https://raw.githubusercontent.com/jungle-cc/ph/main/imgs/carousel_ph.jpg"
+      ],
+      "download_url": "https://github.com/jungle-cc/ph/archive/refs/heads/main.zip"
+    }
+  ]
+}
